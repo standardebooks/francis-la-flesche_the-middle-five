@@ -39,11 +39,6 @@ figure img{
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
-
-[epub|type~="z3998:verse"] p + p,
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
-}
 /* End poetry */
 
 /* Begin dedication */
