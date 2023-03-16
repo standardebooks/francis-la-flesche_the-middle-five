@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/francis-la-flesche/the-middle-five</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-03-16T17:12:18Z</dc:date>
+		<meta property="dcterms:modified">2023-03-16T17:12:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,13 +45,14 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Five Omaha boys attend a mission school.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Middle Five&lt;/i&gt;, written by the Omaha ethnologist &lt;a href="https://standardebooks.org/ebooks/francis-la-flesche"&gt;Francis La Flesche&lt;/a&gt;, is a series of vignettes portraying La Flesche’s childhood growing up on the Omaha Reservation and attending a Presbyterian mission school. Published in 1909, the book portrays both the cultural conflicts arising from the assimilatory nature of the mission school and the youthful escapedes of Frank (La Flesche’s younger self), Brush, Edwin, Warren, and Lester, who together make up the titular gang of schoolboys called the “Middle Five.” Like &lt;a href="https://standardebooks.org/ebooks/zitkala-sa"&gt;Zitkála-Šá’s&lt;/a&gt; short story “The School Days of an Indian Girl” from &lt;a href="https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories"&gt;&lt;i&gt;American Indian Stories&lt;/i&gt;&lt;/a&gt;, &lt;i&gt;The Middle Five&lt;/i&gt; depicts life in an American Indian residential school, but takes place much closer to the reservation and thus portrays the interactions between the mission school and reservation life. It is regarded as a classic work of Native American literature and is often assigned in classrooms as a vivid firsthand account of 19th-century indigenous life.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Middle Five&lt;/i&gt;, written by the Omaha ethnologist &lt;a href="https://standardebooks.org/ebooks/francis-la-flesche"&gt;Francis La Flesche&lt;/a&gt;, is a series of vignettes portraying La Flesche’s childhood growing up on the Omaha Reservation and attending a Presbyterian mission school. Published in 1909, the book portrays both the cultural conflicts arising from the assimilatory nature of the mission school and the youthful escapades of Frank (La Flesche’s younger self), Brush, Edwin, Warren, and Lester, who together make up the titular gang of schoolboys called the “Middle Five.”&lt;/p&gt;
+			&lt;p&gt;Like &lt;a href="https://standardebooks.org/ebooks/zitkala-sa"&gt;Zitkála-Šá’s&lt;/a&gt; short story “The School Days of an Indian Girl” from &lt;a href="https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories"&gt;&lt;i&gt;American Indian Stories&lt;/i&gt;&lt;/a&gt;, &lt;i&gt;The Middle Five&lt;/i&gt; depicts life in an American Indian residential school, but takes place much closer to the reservation and thus portrays the interactions between the mission school and reservation life. It is regarded as a classic work of Native American literature and is often assigned in classrooms as a vivid firsthand account of 19th-century indigenous life.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/62094</dc:source>
 		<dc:source>https://archive.org/details/themiddlefiveboy00laflrich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">42961</meta>
+		<meta property="se:reading-ease.flesch">77.16</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/francis-la-flesche_the-middle-five</meta>
 		<dc:creator id="author">Francis La Flesche</dc:creator>
 		<meta property="file-as" refines="#author">La Flesche, Francis</meta>
@@ -93,6 +94,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
