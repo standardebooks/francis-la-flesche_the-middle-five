@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/62094</dc:source>
 		<dc:source>https://archive.org/details/themiddlefiveboy00laflrich</dc:source>
 		<meta property="se:word-count">42961</meta>
-		<meta property="se:reading-ease.flesch">77.16</meta>
+		<meta property="se:reading-ease.flesch">77.27</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/francis-la-flesche_the-middle-five</meta>
 		<dc:creator id="author">Francis La Flesche</dc:creator>
 		<meta property="file-as" refines="#author">La Flesche, Francis</meta>
