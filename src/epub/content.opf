@@ -54,7 +54,7 @@
 		<dc:source>https://archive.org/details/themiddlefiveboy00laflrich</dc:source>
 		<meta property="schema:wordCount">42440</meta>
 		<meta property="schema:educationalLevel">77.27</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/francis-la-flesche_the-middle-five" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Francis La Flesche</dc:creator>
