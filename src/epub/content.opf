@@ -37,7 +37,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Middle Five: Indian Boys at School</dc:title>
 		<meta property="file-as" refines="#fulltitle">Middle Five, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="dcterms:alternative" refines="#title">The Middle 5</meta>
 		<dc:subject id="subject-1">Indians of North America -- Juvenile literature</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
